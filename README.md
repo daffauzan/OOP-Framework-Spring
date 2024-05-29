@@ -8,3 +8,7 @@ ecommerce_V.2
 
 ecommerce_V.3
 -navigasi sebelum dan sesudah login beres
+
+ecommerce_V.4
+-Baru bikin tabel mvc transaksi
+-tinggal nyambungin controllernya
